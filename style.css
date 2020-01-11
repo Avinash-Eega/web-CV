@@ -1,0 +1,131 @@
+body {
+	font-family: Avennir, Lato;
+	font-size: 18px;
+	margin-left: 120px;
+	margin-right: 120px;
+	margin-bottom: 150px;
+	margin-top: 70px;
+	letter-spacing: 0.3px;
+	background-color: #fff9e6;
+	/*text-align: justify;*/
+}
+
+table {
+	width: 100%;
+	padding-left: 20px;
+}
+
+td{
+	height: 25px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.title {
+	font-size: 111%;
+}
+
+li {
+	line-height: 170%;
+}
+
+/*Header section*/
+
+h1 {
+	/*margin-top: 100px;*/
+	text-align: center;
+	font-size: 222%;
+}
+
+h2 {
+	margin-bottom: 5px;
+	font-size: 120%;
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+.header-table {
+	padding-left: 0;
+}
+
+.header-left {
+	width: 50%;
+	text-align: left;
+}
+
+.header-right {
+	width: 50%;
+	text-align: right;
+}
+
+
+/*Education section*/
+
+.education-left {
+	text-align: left;
+}
+
+.education-right {
+	text-align: right;
+}
+
+
+/*Technical section*/
+
+.tech-left {
+	text-align: left;
+	width: 35%;
+}
+
+.tech-right {
+	text-align: left;
+}
+
+
+/*Research section*/
+
+.research-left {
+	width: 70%;
+	text-align: left;
+	/*font-size: 20px;*/
+}
+
+.research-right {
+	width: 30%;
+	text-align: right;
+}
+
+.guide {
+	margin-top: 5px;
+	text-align: left;
+}
+
+/*Professional section*/
+
+.work-left {
+	width: 50%;
+	text-align: left;
+}
+
+.work-right {
+	width: 50%;
+	text-align: right;
+}
+
+/*Positions of responsibility section*/
+
+
+/*blank section space*/
+
+.blank-space {
+	/*height: 100px;*/
+}
